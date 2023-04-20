@@ -7,6 +7,10 @@ Byte Pair Encoding
 <br />
 [BPE原理讲解博客3(Lei Mao)](https://leimao.github.io/blog/Byte-Pair-Encoding/)
 <br />
+[BPE原理讲解博客4(知乎)](https://zhuanlan.zhihu.com/p/542001880)
+<br />
+[BPE原理讲解博客5(CSDN)](https://blog.csdn.net/qq_41477675/article/details/114645012)
+<br />
 [论文](https://arxiv.org/pdf/1508.07909.pdf)
 # Corpus
 [\<\<All Around the Moon\>\>](http://www.gutenberg.org/cache/epub/16457/pg16457.txt)
